@@ -3,6 +3,7 @@ from rdkit import Chem
 from rdkit.Chem import Draw
 from rdkit.Chem import Descriptors
 import openai
+import os
 
 # Get OpenAI API key from environment variables (Render)
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
