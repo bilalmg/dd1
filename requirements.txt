@@ -1,2 +1,3 @@
 rdkit-pypi
 streamlit
+openai
