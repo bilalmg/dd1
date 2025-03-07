@@ -1,1 +1,1 @@
-rdkit-pypi
+rdkit-pypi==2023.09.3
